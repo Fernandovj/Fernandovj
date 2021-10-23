@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fernandovj
 - 👀 I’m interested in Data Science, Machine Learning algorithms such as Reinforcement Larning and Deep Learning, and virtualization technologies for computer networks such as SDN and NFV
-- 🌱 I’m currently learning Federated Learning (FL).
+- 🌱 I’m currently learning Federated Learning (FL) and 6G.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
