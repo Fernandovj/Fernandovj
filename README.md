@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Fernandovj
-- 👀 I’m interested in Data Science, Machine Learning algorithms such as Reinforcement Larning and Deep Learning, and virtualization technologies for computer networks such as SDN and NFV
-- 🌱 I’m currently learning Federated Learning (FL) and 6G.
+- 👋 Hi, I’m Fernando Villota
+- 👀 I’m interested in Node.js, Cloud, Data Science and Machine Learning.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: williamfvillota@gmail.com
 
 <!---
 Fernandovj/Fernandovj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
