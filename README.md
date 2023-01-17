@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Villota
-- 👀 I’m interested in Node.js, Cloud, Data Science and Machine Learning.
+- 👀 I’m interested in Node.js, python, Cloud, Data Science and Machine Learning.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 <!--- 📫 How to reach me: williamfvillota@gmail.com--->
