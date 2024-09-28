@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fernando Villota
-- 👀 I’m interested in Node.js, python, Cloud, Data Science and Machine Learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a backend developer currently working with Serverless Computing, Node.js, and Python.
+- 🌱 I’m currently learning DevOps and IaaC
 <!--- 📫 How to reach me: williamfvillota@gmail.com--->
 
 <!---
