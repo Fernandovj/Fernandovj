@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Villota
 - 👀 I’m a backend developer currently working with Serverless Computing, Node.js, and Python.
-- 🌱 I’m currently learning DevOps and IaaC
+- 🌱 I’m currently learning DevOps and IaC
 <!--- 📫 How to reach me: williamfvillota@gmail.com--->
 
 <!---
